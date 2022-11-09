@@ -1,0 +1,71 @@
+{
+  "individuals": [
+    {
+      "id": 1,
+      "fullname": "Satheesh",
+      "email": "Sat@mail.com",
+      "password": "South street",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "fullname": "John",
+      "email": "john@mail.com",
+      "password": "North street",
+      "verified": false
+    },
+    {
+      "fullname": "Emmanuel",
+      "email": "emmaalege@gmail.com",
+      "password": "nnnn",
+      "password2": "",
+      "id": 3
+    },
+    {
+      "fullname": "Emmanuel",
+      "email": "emmaalege@gmail.com",
+      "password": "nnnn",
+      "password2": "",
+      "id": 4
+    }
+  ],
+  "organizations": [
+    {
+      "id": 3,
+      "fullname": "Robert",
+      "email": "robert@mail.com",
+      "password": "East street",
+      "verified": false
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "password": "West street",
+      "verified": true
+    },
+    {
+      "fullname": "seatech",
+      "email": "seatech@gmail.com",
+      "password": "nnnn",
+      "password2": "",
+      "id": 5
+    },
+    {
+      "fullname": "seatech2",
+      "email": "seatech@gmail.com",
+      "password": "nnnn",
+      "password2": "",
+      "verified": false,
+      "id": 6
+    },
+    {
+      "fullname": "seatech2",
+      "email": "seatech@gmail.com",
+      "password": "nnnn",
+      "password2": "",
+      "verified": false,
+      "id": 7
+    }
+  ]
+}
